@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Basic requirements -->
+		<title>&nbsp; &nbsp;Jonathan Lee Rossi</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+		<meta name="description" content="10UPNORTH">
+		
+		<!-- So search engines don't index content -->
+		<meta name="robots" content="noindex, follow">
+	
+		<!-- Mobile-specific meta -->
+		<!-- Maximum-scale=1.0 disallows mobile zooming -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
+		
+		<!-- Google fonts -->	
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800,700italic,800italic&subset=latin,greek-ext' rel='stylesheet' type='text/css'>
+			
+		<!-- Social media icons font -- Socicon -->	
+		<link rel="stylesheet" href="/fonts/font-awesome-4.5.0/css/font-awesome.min.css">
+	
+		<!-- CSS -->
+		<link rel="stylesheet" href="/css/normalize_global.css">
+		<link rel="stylesheet" href="/css/screen_global.css">
+		
+		<!-- jQuery scripts -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<script type="text/javascript" src="/js/toggle-nav.js"></script>
+	</head>
+
+	<body class="about">
+		<header class="clearfix logo-reverse">
+			<div class="container-nav">
+				<a href="/about/" class="logo-wrap">
+					<h1 class="logofinal-reverse">Jonathan <span class="openlight">Lee Rossi</span></h1>	
+				</a>
+				
+				<!-- Navigation -->
+				<div class="toggle-nav"><i class="fa fa-bars" aria-hidden="true"></i></div>
+				
+				<nav>
+					<ul>
+						<li class="current">
+							<a href="/about/">About</a>
+						</li>
+						<li>
+							<a href="/projects/">Projects</a>
+						</li>
+						<li>
+							<a href="/blog/">Blog</a>
+						</li>
+						<li>
+							<a class="icons" href="mailto:jonathan.lee.rossi@gmail.com"><i class="fa fa-envelope-o fa-lg"></i></a>
+						</li>
+						<li>
+							<a class="icons" href="https://www.linkedin.com/in/jonathanleerossi" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a>
+						</li>
+						<li>
+							<a class="icons" href="https://github.com/jonrossi" target="_blank"><i class="fa fa-github fa-lg"></i></a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<div class="content-wrap">		
+			<section class="underfixednopic">
+				<div class="container-full-width">
+					<div class="row stacklater clearfix">
+						<div class="colstacklater third small-mobile-img">
+							<div class="container-img-full-width">
+								<img class="nottoobig padbottom" src="/images/lisbon_circle.png" alt="Profile" />
+								<!-- <img class="nottoobig padbottom" src="/images/profile_circular_jpg.jpg" alt="Profile" /> -->
+							</div>
+						</div>
+					
+						<div class="colstacklater two-thirds">
+							<h1 class="topnocategory">About Me</h1>
+							<p class="first">I grew up in the Waldorf education system in rural Vermont, earned a B.A. in Mathematics from Wesleyan University, and spent time after college training as a competitive rower. I&rsquo;m currently supporting strategic leadership at Harvard as an analyst with Harvard's Institutional Research Office, tutoring local high school students in math and computer science, and caring for patients as a volunteer at Mass General Hospital. I care a lot about math education, mentoring young people, continuing my own learning, and solving technical problems. Outside of the office, I&rsquo;m building a two-wheeled self-balancing robot that uses linear quadratic estimation, reducing my Rubik&rsquo;s cube solve times, studying for my Extra Class ham radio license, traveling, and learning to fly a plane. My goal is to become a leader in the commercial space industry and help safely send astronauts to Mars. </p>
+							<p>There are a few things to explore on this page. You can download my <a class="normal" href="#resume">resume</a>, read about my <a class="normal" href="#values">values</a> and <a class="normal" href="#goals">goals</a>, or learn more about my interests in <a class="normal" href="#travel">travel</a>, <a class="normal" href="#flying">flying</a>, <a class="normal" href="#hamradio">ham radio</a>, <a class="normal" href="#speedcubing">solving Rubik&rsquo;s cubes</a>, and competitive <a class="normal" href="#rowing">rowing</a>.</p>
+							<p>You can also navigate to my <a class="normal" href="/projects">projects</a> page to read about the <a class="normal" href="/projects/balancing-robot">self-balancing robot</a> I am building, or the <a class="normal" href="/projects/linguistics">Russian linguistics research</a> I carried out.</p>
+							
+							
+							<a name="values"></a>
+							
+						<!--	<a href="#resume"><h3 class="anchorlink">See My Resume</h3></a> -->
+						
+						</div>
+						
+						
+						
+					</div>	
+					
+					
+
+		
+					
+					
+				</div>
+	
+				
+			</section>
+			<div class="bottompadding"></div>
+			
+			
+		</div>
+		
+		
+		
+		<div class="full-width-section-wrap-light-gray">
+			<a name="approach"></a>
+			<div class="content-wrap">	
+				<section>
+					<div class="container-full-width">
+					<div class="toppadding-resume"></div>
+						<h1 class="secondary centered">My Values</h1>
+						<div class="row clearfix">
+							<div class="column third">
+								<p class="column-icon centered"><i class="fa fa-bar-chart fa-lg"></i></p>
+								<h2 class="centered">Sweat the Details</h2>
+								<p class="first centered">With a background in math, I&rsquo;m a problem solver who believes that no investigation is complete without the implementation of a detailed, quantitative approach. I&rsquo;m fascinated by the ways in which analyzing data can uncover a story that may not have otherwise been apparent. At the same time, I understand the limitations of this kind of approach and enjoy finding practical applications of data-driven results to messier real-world problems.
+								</p>
+							</div>
+					
+							<div class="column third">
+								<p class="column-icon centered"><i class="fa fa-globe fa-lg"></i></p>
+								<h2 class="centered">Connect with Others</h2>
+								<p class="first centered">I&rsquo;m convinced that an understanding of foreign languages and cultures is crucial to being a tolerant, observant member of the globe. More fundamentally, it gives us the tools we need to form <a class="normal anchorlink" href="#alliances">collaborative alliances</a>, which help us make positive contributions to human knowledge and capacity. Through language study and linguistics, I&rsquo;m trying to play as active a role as possible in breaking down global barriers.
+								</p>
+							</div>
+					
+							<div class="column third">
+								<p class="column-icon centered"><i class="fa fa-wrench fa-lg"></i></p>
+								<h2 class="centered">Finish the Job</h2>
+								<p class="first centered">As a former competitive rower, I understand the importance of getting the job done. I started my career as a walk-on my senior year of college and, during the next eleven months, ground out enough meters to earn a gold medal with the Pennsylvania Athletic Club&#8217;s Senior Lightweight 8+ at the Royal Canadian Henley Regatta. This journey taught me unforgettable lessons about leadership, mental toughness, and overcoming personal obstacles.
+								</p>
+							</div>
+						</div>				
+					</div>
+					<a name="goals"></a>
+					<div class="bottompadding"></div>
+					
+					
+				</section>
+			</div>
+		</div>
+		
+		
+		<div class="full-width-section-wrap-navy">
+			<a name="approach"></a>
+			<div class="content-wrap">	
+				<section>
+					<div class="container-full-width">
+					<div class="toppadding-resume"></div>
+						<h1 class="white secondary centered">My Goals</h1>
+						<div class="row clearfix">
+							<div class="column half">
+								<ul class="white fa-ul">
+									<li><i class="fa-li fa fa-space-shuttle"></i>I want to challenge myself professionally, personally, and intellectually</li>
+									<li><i class="fa-li fa fa-space-shuttle"></i>I want to work on problems that are important and that push our limits of understanding and capability as humans</li>
+									
+									<li><i class="fa-li fa fa-spinner fa-spin"></i>I want to finish building the <a class="normal" href="/projects/balancing-robot">two-wheeled, self-balancing robot</a> I&rsquo;m working on</li>
+									<li><i class="fa-li fa fa-space-shuttle"></i>I want to explore the unknown within myself and out in the world</li>
+									<li><i class="fa-li fa fa-space-shuttle"></i>I want to find out what I am capable of and help others find out what they are capable of</li>
+									<li><i class="fa-li fa fa-space-shuttle"></i>I want to empower people</li>
+  								</ul>
+							</div>
+					
+							<div class="column half">
+								<ul class="white fa-ul">
+									<li><i class="fa-li fa fa-rocket"></i>I want to strive for competence and preparedness in everything I do</li>
+									<li><i class="fa-li fa fa-rocket"></i>I want to surround myself with people who aren&rsquo;t afraid to engage with hard, technical problems and push themselves to grow, learn, and overcome challenges</li>
+									<li><i class="fa-li fa fa-rocket"></i>I want to share my interests and knowledge with all types of people</li>
+									<li><i class="fa-li fa fa-rocket"></i>I want to inspire future generations to pursue technical work even if they haven&rsquo;t yet had the opportunity to become accomplished in STEM</li>
+									<li><i class="fa-li fa fa-rocket"></i>I want to help astronauts go to space and prepare to go myself just in case I get the chance</li>
+									
+									<a name="travel"></a>
+
+									
+  								</ul>
+							</div>
+					
+					
+						</div>				
+					</div>
+					
+					
+					
+				</section>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		<div class="toppadding"></div>
+		<section>
+			<div class="container-full-width">
+				<div class="row clearfix">
+					
+					<div class="column third">
+						<h1 class="secondary"><a href="/blog/">Travel</a></h1>
+				<!-- <span class="date">JANUARY 1, 2015</span> -->
+				
+								
+				<!--
+				<span class="datelesstpad-left">January 10, 2016</span>
+				<span class="time-left">Education</span>
+				-->
+				
+					</div>
+					
+					<div class="column two-thirds">
+					<div class="quotelinetopnomargin"></div>
+					<p class="pullquote">Gaining new perspectives</p>
+					<p class="first">Over the past few years, I have traveled to Australia, Indonesia, Iceland, Greece, Spain, Portugal, Switzerland, Croatia, Montenegro, Bosnia and Herzegovina, Morocco, Argentina, Chile, Mexico, and the Anza-Borrego desert in California. Each place has taught me new things about how other people live and about how I can connect with different types of people with different cultures, hopes, dreams, and languages.</p>
+						
+					<a name="alliances"></a>
+				
+					</div>
+					
+				</div>				
+			</div>
+				<div class="bottompadding"></div>
+		</section>
+		
+
+		
+		<div class="content-wrap smaller">	
+		<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			<section class="iceland">
+				<div class="container-full-width">
+					<div class="row clearfix">
+						<div class="column third flow-opposite">
+							<h2 class="no-padding-top">Forming Alliances in Iceland</h2>
+							<p class="first"><i class="fa fa-caret-left" aria-hidden="true"></i>&nbsp;&nbsp;You never know when an opportunity to swap perspectives might arise. During a recent trip to Iceland with my dad, I was intent on test-driving some of the Icelandic I&rsquo;d learned. But when a faulty gas pump intervened in the plans of another traveler, I got to practice my Chinese instead! Problem solved, we went our separate ways, but not before posing for this victorious photo.</p>
+							<div class="toppadding-resume"></div>
+						</div>
+					
+						<div class="column two-thirds next-to-flow-opposite">
+							<img src="/images/iceland_chinese_2.jpg" alt="Iceland" />
+						</div>
+						
+									
+					</div>
+				</div>
+				
+			</section>
+			<div class="bottompaddingmed"></div>
+			
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			
+			<section class="iceland">
+				<div class="container-full-width">
+				
+					<div class="row clearfix">
+						<div class="column third">
+							<h2 class="no-padding-top">Surviving the Sahara</h2>
+							<p class="first">In Morocco, the Berbers say rain in the desert is special to experience, and I was lucky enough to experience a thunderstorm!&nbsp;&nbsp;<i class="fa fa-caret-right" aria-hidden="true"></i></p>
+							
+						</div>
+					
+						<div class="column two-thirds">
+							<img src="/images/desert1.png" alt="Sahara" />
+						</div>
+						
+									
+					</div>
+				</div>
+				
+			</section>
+			
+			<div class="bottompaddingmed"></div>
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			
+			<section class="iceland">
+				<div class="container-full-width">
+					<div class="row clearfix">
+						<div class="column full">
+							<h2 class="no-padding-top">Swimming in the Balkans</h2>
+							<p class="first">In Croatia and Montenegro, the Adriatic tumbles against cliffs and the swimming experience is like being swirled around in someone&rsquo;s drink. And to hop along the coast...? The beautiful Bombardier Dash 8!&nbsp;&nbsp;<i class="fa fa-caret-down" aria-hidden="true"></i></p>
+							<div class="bottompadding-iceland"></div>
+							<img src="/images/croatia2_2.png" alt="Sahara" />
+						</div>
+					</div>
+					
+				</div>
+			</section>
+			
+			<div class="bottompaddingmed"></div>
+			
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			
+			
+			<section class="iceland">
+				<div class="container-full-width">
+				
+					<div class="row clearfix">
+						
+						
+						<div class="column third flow-opposite">
+							<h2 class="no-padding-top">Hiking in the Andes</h2>
+							<p class="first"><i class="fa fa-caret-left" aria-hidden="true"></i>&nbsp;&nbsp;In Chile, you can see the city, the ocean, and the mountains all in one day. Up here, the air is chilly and the mud will cement to your shoes in no time.</p>
+							
+						</div>
+					
+						<div class="column two-thirds next-to-flow-opposite">
+							<img src="/images/andes.png" alt="Sahara" />
+						</div>
+						
+									
+					</div>
+				</div>
+				
+			</section>
+			
+			<div class="bottompaddingmed"></div>
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			<section class="iceland">
+				<div class="container-full-width">
+				
+					<div class="row clearfix">
+						<div class="column third">
+							<h2 class="no-padding-top">On Foot in Jakarta</h2>
+							<p class="first">Paying attention is key in Jakarta, since traffic and open holes to the sewer abound. But what a fascinating place to get to know!&nbsp;&nbsp;<i class="fa fa-caret-right" aria-hidden="true"></i></p>
+							
+						</div>
+						<div class="column two-thirds">
+							<img src="/images/jakarta.png" alt="Sahara" />
+							
+						</div>
+						
+					
+						
+						
+									
+					</div>
+				</div>
+				
+			</section>
+			
+			<div class="bottompaddingmed"></div>
+			
+			<!-- Put back in if going straight to footer (resume etc.) after this...
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			-->
+			
+		
+		
+
+
+		<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			
+			
+			<section class="iceland">
+				<div class="container-full-width">
+				
+					<div class="row clearfix">
+						
+						
+						<div class="column third flow-opposite">
+							<h2 class="no-padding-top">Treking through the Anza-Borrego</h2>
+							<p class="first"><i class="fa fa-caret-left" aria-hidden="true"></i>&nbsp;&nbsp;The Anza-Borrego desert (part of the misleadingly named Colorado Desert of California) lies northeast of San Diego. This is me taking a short rest during a winter hike.</p>
+							
+						</div>
+					
+						<div class="column two-thirds next-to-flow-opposite">
+							<img src="/images/anza_borrego.png" alt="Sahara" />
+						</div>
+						
+						
+						
+									
+					</div>
+					<a name="flying"></a>
+				</div>
+				
+			</section>
+			
+			<div class="bottompaddingmed"></div>
+			
+			</div>
+
+
+		
+		<!-- <div class="breakline"></div> -->
+		
+		
+		<div class="full-width-section-wrap-light-gray">
+			<a name="approach"></a>
+			<div class="content-wrap">	
+				
+				<section class="iceland">
+				<div class="toppadding-resume"></div>
+				<div class="container-full-width">
+					<div class="row clearfix">
+						
+						<div class="column third">
+							<h2 class="no-padding-top">Practicing Steep Turns</h2>
+							<p class="first">I&rsquo;ve had the chance to take some flying lessons, and I&rsquo;m aiming at getting my private pilot&rsquo;s license. This is me on a practice flight out of Massachusetts&rsquo; Minute Man airfield with Aptis Aviation, practicing &ldquo;steep turns.&rdquo;&nbsp;&nbsp;<i class="fa fa-caret-right" aria-hidden="true"></i></p>
+							
+						</div>
+					
+						<div class="column two-thirds">
+							<img src="/images/steep_turns.png" alt="Sahara" />
+						</div>
+						
+						
+							
+					</div>
+					<a name="hamradio"></a>
+					<div class="bottompadding-large"></div>
+					
+				</div>
+			</section>
+			
+			
+				
+			</div>
+		</div>
+		
+		
+		
+		<section class="iceland">
+		<div class="toppadding-resume"></div>
+			
+		
+				<div class="container-full-width">
+				
+				
+					<div class="row clearfix">
+						
+						
+						<div class="column third flow-opposite">
+							<h2 class="no-padding-top">In the &ldquo;Shack&rdquo;</h2>
+							<p class="first"><i class="fa fa-caret-left" aria-hidden="true"></i>&nbsp;&nbsp;I&rsquo;m currently a General Class ham radio operator and have gotten a chance to be a part of the <a class="normal" href="http://w1af.harvard.edu/php/index.php">Harvard Wireless Club</a> (W1AF) community. I&rsquo;m working toward my &ldquo;Worked All States&rdquo; award (make contact with operators in all 50 US states), and I eventually want to break into the &ldquo;DX Century Club&rdquo; (make contact with 100 countries).</p>
+							
+						</div>
+					
+						<div class="column two-thirds next-to-flow-opposite">
+							<img src="/images/shack.png" alt="Sahara" />
+						</div>
+						
+						
+									
+					</div>
+					
+					<a name="speedcubing"></a>
+				</div>
+				
+			</section>
+		
+
+		<div class="bottompadding-large"></div>
+		
+		
+		
+		
+		<div class="full-width-section-wrap-light-gray">
+			<a name="approach"></a>
+			<div class="content-wrap">	
+				
+				<section class="iceland">
+				<div class="container-full-width">
+					<div class="row clearfix">
+						<div class="column full">
+						<div class="toppadding-resume"></div>
+							<h2 class="no-padding-top">Speedcubing</h2>
+							<p class="first">I&rsquo;ve enjoyed learning to solve Rubik&rsquo;s cubes and teaching my young niece and nephews how the puzzles work.&nbsp;&nbsp;<i class="fa fa-caret-down" aria-hidden="true"></i></p>
+							
+							
+							<div class="container-video-center">	
+					<div class='embed-container'>
+						
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIxnMSgk05o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+					</div>
+					
+					<a name="rowing"></a>
+					
+					
+				</div>
+			
+							
+					</div>
+					
+				</div>
+			</section>
+				
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		<div class="toppadding"></div>
+		<section>
+			<div class="container-full-width">
+				<div class="row clearfix">
+					
+					<div class="column third">
+						<h1 class="secondary"><a href="/blog/">Rowing</a></h1>
+				<!-- <span class="date">JANUARY 1, 2015</span> -->
+				
+								
+				<!--
+				<span class="datelesstpad-left">January 10, 2016</span>
+				<span class="time-left">Education</span>
+				-->
+				
+					</div>
+					
+					<div class="column two-thirds">
+					<div class="quotelinetopnomargin"></div>
+					<p class="pullquote">Getting the Job Done</p>
+					<p class="first">Since I stopped training full-time, I have still had some incredibly meaningful competition experiences. Most recently, I had the opportunity to row in the Wesleyan Alumni 8+ at Head of the Charles, with a great bunch of guys who are old friends and excellent oarsmen. Before that, I rowed in the C.R.A.S.H.-B Sprints World Indoor Rowing Competition held at Boston University, where I modeled my race plan after a Soyuz launch. <i class="fa fa-smile-o" aria-hidden="true"></i></p>
+						
+					<a name="alliances"></a>
+				
+					</div>
+					
+				</div>				
+			</div>
+				<div class="bottompadding"></div>
+		</section>
+		
+
+		
+		
+		<div class="content-wrap smaller">	
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			<section class="iceland">
+				<div class="container-full-width">
+					<div class="row clearfix">
+						
+						<div class="column full">
+							<h2 class="no-padding-top">Head of the Charles 2018</h2>
+							
+							<img src="/images/hoc.png" alt="Sahara" />
+						</div>
+
+						
+									
+					</div>
+				</div>
+				
+				
+				<div class="bottompadding-bigger"></div>
+			</section>
+		</div>
+			
+			
+			<div class="content-wrap smaller">	
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			<section class="iceland">
+				<div class="container-full-width">
+					<div class="row clearfix">
+						
+						<div class="column full">
+							<h2 class="no-padding-top">C.R.A.S.H.-B Sprints 2016</h2>
+							
+							<img src="/images/crashbs.png" alt="Sahara" />
+						</div>
+
+						
+									
+					</div>
+				</div>
+				
+				<a name="resume"></a>
+				<div class="bottompadding-bigger"></div>
+			</section>
+		</div>
+			
+			
+			
+			<div class="content-wrap">
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+			
+			<!-- take out if coming after white section -->
+			
+				<section>
+					<div class="container-full-width">
+					
+						
+						<h1 class="secondary centered">Resume</h1>
+						<p class="byline centered">Download a PDF version of my resume <a class="normal" href="/files/jlrossi_resume_web.pdf" download>here</a>.</p>
+						<p class="byline centered">And download my unofficial resume <a class="normal" href="/files/jlrossi_resume_unofficial_web.pdf" download>here</a>.</p>
+				
+				
+					</div>
+				</section>
+			</div>
+			
+			<div class="bottompaddingmed"></div>
+			
+			
+			<div class="container-full-width">
+				<div class="breakline-blogpost"></div>
+			</div>
+			
+				<!--
+				
+						<div class="row clearfix">
+							<div class="column half">
+								<h2>Education</h2>
+								
+								<blockquote class="resume">
+									<ul class="resume">
+										<li class="first"><strong>Wesleyan University</strong>, (2008–2011), Middletown CT: Bachelor of Arts, Mathematics</li>
+										<li><strong>General Assembly</strong>, (2016), Boston, MA: Data Science Certificate Course (part-time)</li>
+										<li><strong>HBX CORe</strong>, (2016), Harvard Business School, Cambridge, MA: Business Analytics, Economics, and Financial Accounting</li>
+										<li><strong>Harvard Extension School</strong>, (2014–2015), Cambridge, MA: Arabic Language</li>
+									</ul>
+								</blockquote>
+				
+								<h2 class="resume-not-first">Experience</h2>
+				
+								<blockquote class="resume">
+									<ul class="resume">
+										<li class="first"><strong>Outside Awards Coordinator, Admissions Interviewer</strong>, Harvard Admissions & Financial Aid, (2013–present): Manage Harvard&rsquo;s Outside Scholarships Program ($10 million/yr) in compliance with federal guidelines. Interview Harvard applicants to report on personal qualities to the Admissions Committee.</li>
+										<li><strong>Proctor (Freshman Residential Advisor)</strong>, Harvard College (2015–present): Serve as the primary residential advisor for 28 freshman. Advocate for students' well-being, execute weekly advising events, maintain a strong relationship with the resident dean, and respond to any crises that arise.</li>
+										<li><strong>Research Assistant</strong>, Polinsky Language Sciences Lab, Harvard University (2012–present): Conduct behavioral experiments to examine native vs. heritage speaker acquisition of grammatical subextraction in Russian.</li>
+										<li><strong>English Language Teacher</strong>, TEFL International, Prague (2012): Completed a 120-hour TESOL certification course with 8 hours teaching Czech students and 24 hours of peer observation.</li>
+										<li><strong>Volunteer EMT</strong>, Woodstock, Vermont, (2010): Completed a 5-month training course and volunteered as an EMT with the Woodstock Ambulance Squad.</li>
+										<li><strong>Co-founder</strong>, IMS Electronics Group (2008–2009): Co-founded an electronics learning group for Wesleyan&rsquo;s Instructional Media Services (IMS). </li>
+									</ul>
+								</blockquote>
+							</div>
+					
+							<div class="column half">
+								<h2 class="resume-not-first-mobile">Proficiencies</h2>
+				
+								<blockquote class="resume">
+									<ul class="resume">
+										<li><strong>Data Science/Analytics:</strong> Python: data exploration/cleaning (pandas, numpy), visualization (matplotlib, seaborn), machine learning (scikit-learn), Jupyter Notebooks, SQL, git, Azure Machine Learning, Excel</li>
+											<ul class="resume-secondary">
+												<li>General Assembly Part-Time Data Science Certificate Course (2016)</li>
+												<li>EdX Verified Certificate for Data Science & Machine Learning Essentials (2015)</li>
+											</ul>
+										<li><strong>Business Analytics:</strong> Completed HBX CORe, Harvard Business School&rsquo;s online certificate program in Business Analytics, Economics, and Financial Accounting</li>
+										<li class="first"><strong>Operating Systems:</strong> Windows, Mac OS X, Unix</li>
+										<li><strong>Administrative:</strong> Excellent oral and written communication, customer service, interviewing skills, Microsoft Office</li>
+										<li><strong>Other Proficiencies:</strong> Mobile-first web design with HTML5 + CSS/JavaScript, LaTeX, Photoshop, Illustrator, QuarkXPress, Final Cut Studio, Adobe Premier Pro</li>
+									</ul>
+								</blockquote>
+
+								<h2 class="resume-not-first">Activities</h2>
+				
+								<blockquote class="resume">
+									<ul class="resume">
+										<li class="first"><strong>Math Tutoring</strong>, (2016–present), Cambridge Rindge & Latin, Cambridge, MA: Tutor high school students in Algebra, Precalculus, and Calculus</li> 
+										<li class="first"><strong>Rowing</strong></li>
+											<ul class="resume-secondary">
+												<li><strong>Wesleyan University Varsity Men&rsquo;s Crew</strong>, (2011): Awards: NESCAC All-Academic, Captain&rsquo;s Oar.</li>
+												<li><strong>Pennsylvania Athletic Club</strong>, (2011), Philadelphia, PA: Club Nationals (Indianapolis, IN): Intermediate Lightweight 4+ (bronze medal), Senior Lightweight 8+ (gold medal); Canadian Henley (St. Catharines, ON): Senior Lightweight 8+ (gold medal).</li>
+												<li><strong>Riverside Boat Club & Community Rowing, Inc.</strong>, (2012–2013), Cambridge, MA: Trained individually and with the High Performance groups.</li>
+											</ul>			
+									</ul>
+						
+									<ul class="resume not-first">
+										<li class="first"><strong>Other:</strong> Scuba Diving, Language Study, Arduino/Robotics, Amateur Radio</li>		
+									</ul>
+								</blockquote>
+							</div>
+							<div class="bottompadding"></div>			
+						</div>
+					</div>
+				</section>
+			</div>	
+			
+			-->
+			
+			<section>
+			<div class="container-full-width">
+				<div class="row clearfix">
+					
+					
+					<div class="column third">
+						<h1 class="secondary"><a href="/blog/">About this Website</a></h1>
+				<!-- <span class="date">JANUARY 1, 2015</span> -->
+				
+								
+				<!--
+				<span class="datelesstpad-left">January 10, 2016</span>
+				<span class="time-left">Education</span>
+				-->
+				
+					</div>
+					
+					<div class="column two-thirds">
+					<div class="quotelinetopnomargin"></div>
+						<p class="pullquote">If you see something, say something...</p>
+						<div class="bottompadding"></div>
+						<p class="first">I built this website from scratch using HTML <i class="fa fa-html5" aria-hidden="true"></i> and CSS, and a little bit of JavaScript. It&rsquo;s responsive to the size of your screen, so whether you&rsquo;re browsing on a phone, a tablet, or a laptop, you should get something that functions and looks nice. If you notice anything to the contrary, please send me an email at <a class="normal" href="mailto:jonathan.lee.rossi@gmail.com">jonathan.lee.rossi@gmail.com</a> so that I can fix it! Thanks <i class="fa fa-smile-o" aria-hidden="true"></i></p>
+				
+				
+					</div>
+					
+				</div>				
+			</div>
+				<div class="bottompadding"></div>
+		</section>
+		
+
+
+		
+		
+		<footer class="clearfix">
+			<div class="container-footer">
+			
+			<a class="footer" href="mailto:jonathan.lee.rossi@gmail.com"><i class="fa fa-envelope fa-lg"></i></a>
+				&nbsp;&nbsp;
+				<a class="footer" href="https://www.linkedin.com/in/jonathanleerossi" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a>
+				&nbsp;&nbsp;
+				<a class="footer" href="https://github.com/jonrossi" target="_blank"><i class="fa fa-github fa-lg"></i></a>
+			
+				<div class="footertoppadding"></div>		
+				<a class="footer" href="/about/">Copyright © 2018 Jonathan Lee Rossi</a>
+			</div>
+			<div class="bottompadding"></div>
+		</footer>
+	</body>
+</html>
